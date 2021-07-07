@@ -1,8 +1,8 @@
 ### <h1 align="center"> Hello, fellow learners 👋 A Warm Welcome to you all ! </h1>
 
-## <h3 align="center"> I am Anusha Satish, an eager learner, a diligent hardworker and a passionate tech enthusiast. 😄 </h3>
+## <h2 align="center"> I am Anusha Satish, an eager learner, a diligent hardworker and a passionate tech enthusiast. 😄 </h3>
 
-<h4 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd. 🎓 </h4>
+<h3 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd. 🎓 </h4>
 
 <h3 align="center"> I have an inquisitive mind because I believe there's always something to learn about. 🤔 </h5>
 
@@ -18,13 +18,9 @@ Languages and Tools:
 
 - 👯 I’m looking to collaborate on unique ML/AI/Data Science projects.
 
--  I’m looking for help with improving my tech repertoire.
-
 - 💬 Ask me through my social.
 
 - 📫 How to reach me: https://www.linkedin.com/in/anusha7satish
-
--  I'm looking forward to 
 
 - ⚡ Outside of a professional capacity, I am usually found with a novel in hand, busily jamming to songs or occasionally dancing. 
 
