@@ -4,11 +4,10 @@
 
 ![ (https://visitor-badgr.laobi.icu/badge?page_id=annuusshha.annuusshha) ]
 
-<h4 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd., 
-                    and I have interned in the past at Ramco Systems and The Sparks Foundation. 
+<h4 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd.
 🎓 </h4>
 
-<h5 align="center"> I have an inquisitive mind because I believe there's always something to learn about. 🤔 </h5>
+<h3 align="center"> I have an inquisitive mind because I believe there's always something to learn about. 🤔 </h5>
 
 <h2 align="center"> I am mainly a computer science enthusiast. 👩🏻‍💻 </h2>
 
