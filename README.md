@@ -21,7 +21,7 @@ Languages and Tools:
 
 - 🤔 I’m looking for help with improving my tech repertoire.
 
-- 💬 Ask me through my socials.
+- 💬 Ask me through my social.
 
 - 📫 How to reach me: https://www.linkedin.com/in/anusha7satish
 
