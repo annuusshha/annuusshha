@@ -8,7 +8,7 @@
 
 <h2 align="center"> I am mainly a computer science enthusiast. 👩🏻‍💻 </h2>
 
-<p align="center">  <img src="https://pin.it/7wZzJlk"  width="300" align="center">
+<p align="center">  <img src="https://www.pinterest.com/pin/790452172103480349/sent/?invite_code=69c418ff64fd45e2b2f56b9e3d8a751b&sender=790452309506218990&sfo=1"  width="300" align="center">
 
 </p>
 Languages and Tools:
