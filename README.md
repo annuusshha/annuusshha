@@ -1,10 +1,11 @@
-### <hi align="center"> Hello, fellow learners 👋 A Warm Welcome to you all ! </h1>
+### <h1 align="center"> Hello, fellow learners 👋 A Warm Welcome to you all ! </h1>
 
 ## <h3 align="center"> I am Anusha Satish, an eager learner, a diligent hardworker and a passionate tech enthusiast. 😄 </h3>
 
 ![ (https://visitor-badgr.laobi.icu/badge?page_id=annuusshha.annuusshha) ]
 
-<h4 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd., and have interned in the past at Ramco Systems and The Sparks Foundation. 
+<h4 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd., 
+                    and I have interned in the past at Ramco Systems and The Sparks Foundation. 
 🎓 </h4>
 
 <h5 align="center"> I have an inquisitive mind because I believe there's always something to learn about. 🤔 </h5>
