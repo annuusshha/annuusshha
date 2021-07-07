@@ -2,7 +2,7 @@
 
 ## I am Anusha Satish, an eager learner, a diligent hardworker and a passionate tech enthusiast. 
 
-![] (https://visitor-badgr.laobi.icu/badge?page_id=annuusshha.annuusshha)
+![ (https://visitor-badgr.laobi.icu/badge?page_id=annuusshha.annuusshha) ]
 
 I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd. , and have interned in the past at Ramco Systems and The Sparks Foundation.
 
