@@ -8,9 +8,10 @@
 
 <h2 align="center"> I am mainly a computer science enthusiast. 👩🏻‍💻 </h2>
 
-<p align="center">  
+<p align="center">  <img src="https://pin.it/7wZzJlk"  width="300" align="center">
+
+</p>
 Languages and Tools:
-![Top Langs] (https://github-readme-stats.vercelapp/api/top-langs/?username=annuusshha&theme=tokyonight)
 
 - 🔭 I’m currently working on state-of-the-art Machine Learning/Artificial Intelligence projects.
 
