@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hello, fellow learners 👋 A Warm Welcome to you all ! </h1>
 
-## <h2 align="center"> I am Anusha Satish, an eager learner, a diligent hardworker and a passionate tech enthusiast. 😄 </h3>
+ <h2 align="center"> I am Anusha Satish, an eager learner, a diligent hardworker and a passionate tech enthusiast. 😄 </h3>
 
 <h3 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd. 🎓 </h4>
 
