@@ -9,7 +9,7 @@
 <h2 align="center"> I am mainly a computer science enthusiast. 👩🏻‍💻 </h2>
 
 <p align="center">  <img src="https://megalive.com.my/wp-content/uploads/2020/08/sunglasses.jpg"  width="300" align="center"> </p>
-Languages and Tools:
+<h2 align="center"> Languages and Tools: </h2>
 
 - 🔭 I’m currently working on state-of-the-art Machine Learning/Artificial Intelligence projects.
 
