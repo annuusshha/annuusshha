@@ -2,15 +2,13 @@
 
 ## <h3 align="center"> I am Anusha Satish, an eager learner, a diligent hardworker and a passionate tech enthusiast. 😄 </h3>
 
-![ (https://visitor-badgr.laobi.icu/badge?page_id=annuusshha.annuusshha) ]
-
-<h4 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd.
-🎓 </h4>
+<h4 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd. 🎓 </h4>
 
 <h3 align="center"> I have an inquisitive mind because I believe there's always something to learn about. 🤔 </h5>
 
 <h2 align="center"> I am mainly a computer science enthusiast. 👩🏻‍💻 </h2>
 
+<p align="center">  
 Languages and Tools:
 ![Top Langs] (https://github-readme-stats.vercelapp/api/top-langs/?username=annuusshha&theme=tokyonight)
 
