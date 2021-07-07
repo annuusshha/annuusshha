@@ -8,7 +8,7 @@
 
 <h2 align="center"> I am mainly a computer science enthusiast. 👩🏻‍💻 </h2>
 
-<p align="center">  <img src="https://d3dhq28juvmj53.cloudfront.net/clipart/glasses_and_contacts/glasses%20in%20the%20sun.jpg"  width="300" align="center"> </p>
+<p align="center">  <img src="https://megalive.com.my/wp-content/uploads/2020/08/sunglasses.jpg"  width="300" align="center"> </p>
 Languages and Tools:
 
 - 🔭 I’m currently working on state-of-the-art Machine Learning/Artificial Intelligence projects.
