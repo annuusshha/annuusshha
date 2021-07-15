@@ -22,7 +22,7 @@
   <p align="center">
   <a href="https://www.linkedin.com/in/anusha7satish/" target="blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="40" width="40" /></a>&nbsp;<a href="https://www.quora.com/profile/Anusha-Satish-12" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/9/91/Quora_logo_2015.svg" height="35" width="75" /></a>&nbsp; &nbsp; <a href="https://anusha7satish.medium.com"><img src ="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" height="40" width="35"  /></a> </p>
 
-<h4 align="center"> - ⚡ Outside of a professional capacity, I am usually found with a novel in hand, busily jamming to songs or occasionally dancing. </h4>
+<h4 align="center"> - ⚡ Outside of a professional capacity, I am usually found with a novel in hand, busy jamming to songs or occasionally dancing. </h4>
 
 <h3 align="center"> - 🙏🏻 Above all, I am grateful to God for everything. </h3>
 
