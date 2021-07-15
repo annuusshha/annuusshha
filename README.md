@@ -24,6 +24,6 @@
 
 <h4> - ⚡ Outside of a professional capacity, I am usually found with a novel in hand, busily jamming to songs or occasionally dancing. </h4>
 
-<h3> - Above all, I am grateful to God for everything. </h3>
+<h3 align="center"> - 🙏🏻 Above all, I am grateful to God for everything. </h3>
 
-<h2> Check out my repositories down below, ciao ! ⬇️ </h2>
+<h2 align="center"> Check out my repositories down below, ciao ! ⬇️ </h2>
