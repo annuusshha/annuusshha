@@ -2,7 +2,7 @@
 
  <h2 align="center"> I am Anusha Satish, an eager learner, a diligent hardworker and a passionate tech enthusiast. 😄 </h2>
 
-<h3 align="center"> I am currently working as an AI/ML intern at Hitachi Solutions India Pvt. Ltd. 🎓 </h4>
+<h3 align="center"> I am currently working as a Software Engineer (Data Engineering) at Tiger Analytics India Pvt. Ltd. 🎓 </h4>
 
 <h3 align="center"> I have an inquisitive mind because I believe there's always something to learn about. 🤔 </h5>
 
