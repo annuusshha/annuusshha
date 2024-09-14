@@ -8,7 +8,7 @@
 
 <h2 align="center"> I’m a tech enthusiast, constantly exploring the exciting world of data science and beyond! 👩🏻‍💻 </h2>
 
-<p align="center"> <img src="https://cdn.pixabay.com/photo/2014/09/16/20/33/sunglasses-448710_960_720.jpg" width="300" align="center"> </p>
+<p align="center"> <img src="https://www.frankandmarci.com/wp-content/uploads/2023/03/01-B-ai-book-cover-design.png" width="300" align="center"> </p>
 
 <h2 align="center"> Some of my proudest achievements: </h2>
 
@@ -25,31 +25,28 @@
 <h2 align="center"> Languages and Tools: </h2>
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/LLM" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LLM_large_language_model.svg" alt="LLMs" width="55" height="40"/>
+    <img src="https://assets.zilliz.com/LLM_d9b2a51b37.png" alt="LLMs" width="55" height="40"/>
   </a>&nbsp;
     <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
     <img src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" alt="Python" width="45" height="40"/>
   </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Natural_language_processing_Icon.png" alt="NLP" width="55" height="40"/>
+    <img src="https://www.shutterstock.com/shutterstock/photos/2232411719/display_1500/stock-photo-nlp-icon-natural-language-processing-icon-nlp-logo-2232411719.jpg" alt="NLP" width="55" height="40"/>
   </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Deep_learning_icon.png" alt="Deep Learning" width="55" height="40"/>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNRrJPp8YOab8hTvZIiIDPoCUYY3RPhlUXWpHjk-yeY4a130qmtCP0eepzsSMfHD6gZrvDykVmN0tkWFAgI90W4Nd_YbwMFNe0BYjxy14tk93rBbDhRG12g4NRSTvcSmCP_Xy5NMclXQaD5xiOFMhc5C8OlJW0SK4thSz36ZJeQ2a-vLyk2ZxzfkXmsg/s1640/Machine%20Learning.png" alt="Deep Learning" width="55" height="40"/>
   </a>&nbsp;
     <a href="https://en.wikipedia.org/wiki/GAAP_(Generally_Accepted_Accounting_Principles)" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/GAAP_Accounting.jpg/512px-GAAP_Accounting.jpg" alt="GAAP" width="55" height="40"/> 
+      <img src="https://static.vecteezy.com/system/resources/previews/029/927/999/original/gaap-generally-accepted-accounting-principles-label-icon-badge-stock-illustration-vector.jpg" alt="GAAP" width="55" height="40"/> 
     </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Invoice" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Invoice_template.png/512px-Invoice_template.png" alt="Invoices" width="55" height="40"/> 
-  </a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/SetFit" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/neuralnetwork_machinelearning_icon_130176.png" alt="SetFit" width="55" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5531/5531737.png" alt="Invoices" width="55" height="40"/> 
   </a>&nbsp;
   </p>
 <br>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Explainable_A.I.png/800px-Explainable_A.I.png" alt="XAI" width="55" height="40"/>
+    <img src="https://media.licdn.com/dms/image/D4D12AQFg0ywtRnsOCQ/article-cover_image-shrink_720_1280/0/1691402261842?e=2147483647&v=beta&t=g287gSVFPrwbmBE669bNu2xud9YDjKfkk-JfnyjxCTY" alt="XAI" width="55" height="40"/>
   </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Machine Learning" width="50" height="40"/>
@@ -60,12 +57,6 @@
   <a href="https://en.wikipedia.org/wiki/OpenCV" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="35" height="40"/>
   </a>&nbsp;
-   <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Neural_network.svg" alt="Neural Networks" width="55" height="40"/>
-  </a>&nbsp;
-    <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Attention_Mechanism.svg/512px-Attention_Mechanism.svg.png" alt="Transformers" width="55" height="40"/> 
-  </a>&nbsp; 
 </p>
 <br>
 <p align="center">
