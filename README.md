@@ -24,11 +24,35 @@
 
 <h2 align="center"> Languages and Tools: </h2>
 <p align="center">
+    <a href="https://en.wikipedia.org/wiki/LLM" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LLM_large_language_model.svg" alt="LLMs" width="55" height="40"/>
+  </a>&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
+    <img src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" alt="Python" width="45" height="40"/>
+  </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Natural_language_processing_Icon.png" alt="NLP" width="55" height="40"/>
+  </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Deep_learning_icon.png" alt="Deep Learning" width="55" height="40"/>
+  </a>&nbsp;
+    <a href="https://en.wikipedia.org/wiki/GAAP_(Generally_Accepted_Accounting_Principles)" target="_blank"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/GAAP_Accounting.jpg/512px-GAAP_Accounting.jpg" alt="GAAP" width="55" height="40"/> 
+    </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Invoice" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Invoice_template.png/512px-Invoice_template.png" alt="Invoices" width="55" height="40"/> 
+  </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SetFit" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/neuralnetwork_machinelearning_icon_130176.png" alt="SetFit" width="55" height="40"/>
+  </a>&nbsp;
+  </p>
+<br>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Explainable_A.I.png/800px-Explainable_A.I.png" alt="XAI" width="55" height="40"/>
+  </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Machine Learning" width="50" height="40"/>
-  </a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
-    <img src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" alt="Python" width="45" height="40"/>
   </a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="35" height="40"/>
@@ -36,7 +60,14 @@
   <a href="https://en.wikipedia.org/wiki/OpenCV" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="35" height="40"/>
   </a>&nbsp;
+   <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Neural_network.svg" alt="Neural Networks" width="55" height="40"/>
+  </a>&nbsp;
+    <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Attention_Mechanism.svg/512px-Attention_Mechanism.svg.png" alt="Transformers" width="55" height="40"/> 
+  </a>&nbsp; 
 </p>
+<br>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/NumPy" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/220px-NumPy_logo_2020.svg.png" alt="NumPy" width="55" height="40"/>
@@ -53,7 +84,7 @@
 </p> 
 <br>
 
-<h4 align="center"> - 🔭 I’m currently working on some cutting-edge GenAI/Machine Learning/Deep Learning projects. </h4>
+<h4 align="center"> - 🔭 I’m currently working on cutting-edge GenAI/Machine Learning/Deep Learning projects. </h4>
 <h4 align="center"> - 🌱 I’m learning R to expand my data science toolkit! </h4>
 <h4 align="center"> - 👯 Always open to collaborating on cool ML/AI/Data Science projects. </h4>
 
@@ -72,6 +103,6 @@
 
 <h4 align="center"> - ⚡ When I’m not in data mode, you’ll find me immersed in a good novel or grooving to my favorite jams. 🎶 </h4>
 
-<h3 align="center"> - 🙏🏻 Grateful for everything, especially for the journey so far. </h3>
+<h3 align="center"> - 🙏🏻 Grateful to God for everything, especially for the journey so far. </h3>
 
 <h2 align="center"> Check out my repositories down below, cheers! ⬇️ </h2>
