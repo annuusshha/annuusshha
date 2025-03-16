@@ -4,7 +4,7 @@
 
 <h3 align="center"> I am currently working as a Data Scientist at Intellect Design Arena Pvt. Ltd. 🎓</h4>
 
-<h3 align="center"> With over 2 years of experience, I'm always on the hunt for new insights and innovations. 🤔 </h5>
+<h3 align="center"> With over 3 years of experience, I'm always on the hunt for new insights and innovations. 🤔 </h5>
 
 <h2 align="center"> I’m a tech enthusiast, constantly exploring the exciting world of data science and beyond! 👩🏻‍💻 </h2>
 
